@@ -1,1 +1,1 @@
-# study
+# my-first-project
